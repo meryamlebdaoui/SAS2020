@@ -196,22 +196,3 @@ int main(){
 		}	
 	}while(x==0);
 }
-
-
-
-
-
-
-
-
-
-
-
-/*void afficher_president(President *tete){
-	President* liste=tete;
-	while(liste!=NULL)
-	{
-		printf("%s\n",liste->nom);
-		liste=liste->suivant;
-	}
-}*/
